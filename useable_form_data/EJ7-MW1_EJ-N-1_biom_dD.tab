@@ -1,0 +1,83 @@
+/* DATA DESCRIPTION:
+Citation:	Atwood, Alyssa R; Sachs, Julian P (2014): Hydrogen isotopes of biomarkers from sediment core EJ7-MW1_EJ-N-1 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.834099, 
+	In supplement to: Atwood, AR; Sachs, JP (2014): Separating ITCZ- and ENSO-related rainfall changes in the Galápagos over the last 3 kyr using D/H ratios of multiple lipid biomarkers. Earth and Planetary Science Letters, 404, 408-419, https://doi.org/10.1016/j.epsl.2014.07.038
+Coverage:	LATITUDE: -0.895000 * LONGITUDE: -89.480000
+	MINIMUM DEPTH, sediment/rock: 0.0050 m * MAXIMUM DEPTH, sediment/rock: 0.9925 m
+Event(s):	EJ7-MW1_EJ-N-1 * LATITUDE: -0.895000 * LONGITUDE: -89.480000 * ELEVATION: 670.0 m * LOCATION: Pacific Ocean * METHOD/DEVICE: Composite Core (COMPCORE)
+Parameter(s):	Core (Core) * PI: Atwood, Alyssa R (aatwood@uw.edu)
+	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE
+	Depth, top/min [m] (Depth top) * PI: Atwood, Alyssa R (aatwood@uw.edu)
+	Depth, bottom/max [m] (Depth bot) * PI: Atwood, Alyssa R (aatwood@uw.edu)
+	AGE [ka BP] (Age) * GEOCODE
+	Age, error [±] (Age e) * PI: Atwood, Alyssa R (aatwood@uw.edu) * COMMENT: upper 68% ci
+	Age, error [±] (Age e) * PI: Atwood, Alyssa R (aatwood@uw.edu) * COMMENT: lower 68% ci
+	δ Deuterium [‰ SMOW] (δD) * PI: Atwood, Alyssa R (aatwood@uw.edu) * COMMENT: biomarker, bottom
+	δ Deuterium, standard deviation [±] (δD std dev) * PI: Atwood, Alyssa R (aatwood@uw.edu) * COMMENT: biomarker, bottom
+	δ Deuterium [‰ SMOW] (δD) * PI: Atwood, Alyssa R (aatwood@uw.edu) * COMMENT: biomarker, dinoflagellate
+	δ Deuterium, standard deviation [±] (δD std dev) * PI: Atwood, Alyssa R (aatwood@uw.edu) * COMMENT: biomarker, dinoflagellate
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	478 data points
+*/
+Core	Depth sed [m]	Depth top [m]	Depth bot [m]	Age [ka BP]	Age e [±] (upper 68% ci)	Age e [±] (lower 68% ci)	δD [‰ SMOW] (biomarker, bottom)	δD std dev [±] (biomarker, bottom)	δD [‰ SMOW] (biomarker, dinoflagellate)	δD std dev [±] (biomarker, dinoflagellate)
+EJ7-MW1	0.0050	0.00	0.010	-0.051	0.001	0.003	-242	2	-251	3
+EJ7-MW1	0.0250	0.02	0.030	-0.041	0.001	0.002	-239	1		
+EJ7-MW1	0.0450	0.04	0.050	-0.032	0.001	0.002	-237	6	-253	7
+EJ7-MW1	0.0550	0.05	0.060	-0.027	0.001	0.001	-237	0		
+EJ7-MW1	0.0750	0.07	0.080	-0.014	0.001	0.002	-230	2		
+EJ7-MW1	0.0850	0.08	0.090	-0.007	0.002	0.003	-233	5	-250	0
+EJ7-MW1	0.0950	0.09	0.100	0.003	0.002	0.002	-231			
+EJ7-MW1	0.1050	0.10	0.110	0.014	0.003	0.003	-235	2		
+EJ7-MW1	0.1150	0.11	0.120	0.026	0.002	0.003	-227			
+EJ7-MW1	0.1250	0.12	0.130	0.040	0.002	0.004	-231		-244	0
+EJ7-MW1	0.1350	0.13	0.140	0.053	0.003	0.004	-229			
+EJ7-MW1	0.1450	0.14	0.150	0.061	0.003	0.004	-224	3		
+EJ7-MW1	0.1550	0.15	0.160	0.069	0.005	0.005	-225	6		
+EJ7-MW1	0.1650	0.16	0.170	0.077	0.007	0.007			-240	4
+EJ7-MW1	0.1750	0.17	0.180	0.085	0.009	0.011	-239	2		
+EJ7-MW1	0.1850	0.18	0.190	0.093	0.011	0.017	-243	3		
+EJ7-MW1	0.1950	0.19	0.200	0.101	0.013	0.024	-258	1		
+EJ7-MW1	0.2050	0.20	0.210	0.109	0.015	0.031	-256			
+EJ7-MW1	0.2150	0.21	0.220	0.116	0.017	0.039	-260	4	-248	6
+EJ7-MW1	0.2450	0.24	0.250	0.140	0.025	0.062	-259	3	-258	3
+EJ7-MW1	0.2750	0.27	0.280	0.164	0.032	0.081	-271			
+EJ7-MW1	0.3050	0.30	0.310	0.188	0.040	0.090	-268		-245	5
+EJ7-MW1	0.3350	0.33	0.340	0.215	0.041	0.086	-264			
+EJ7-MW1	0.3650	0.36	0.370	0.242	0.036	0.073	-265	3		
+EJ7-MW1	0.3950	0.39	0.400	0.269	0.030	0.054	-268	3	-250	4
+EJ7-MW1	0.4250	0.42	0.430	0.296	0.028	0.031	-263	2		
+EJ7-MW1	0.4550	0.45	0.460	0.323	0.022	0.021	-262	1		
+EJ7-MW1	0.4850	0.48	0.490	0.350	0.017	0.022	-283	3		
+EJ-N-1A	0.0550	0.05	0.060	0.359	0.017	0.021	-273	2	-236	10
+EJ7-MW1	0.5150	0.51	0.520	0.369	0.014	0.018			-236	10
+EJ-N-1A	0.1050	0.10	0.110	0.396	0.011	0.012	-280	5	-250	4
+EJ-N-1A	0.1550	0.15	0.160	0.433	0.007	0.008	-269	2	-247	1
+EJ-N-1A	0.2050	0.20	0.210	0.468	0.005	0.010	-281	1		
+EJ-N-1A	0.2550	0.25	0.260	0.490	0.010	0.010	-270	0		
+EJ-N-1A	0.3050	0.30	0.310	0.534	0.022	0.013	-266	1		
+EJ-N-1A	0.3550	0.35	0.360	0.582	0.039	0.018	-278	1	-263	1
+EJ-N-1A	0.4050	0.40	0.410	0.633	0.056	0.025	-280	0	-261	2
+EJ-N-1A	0.4550	0.45	0.460	0.722	0.053	0.027	-284	1	-252	1
+EJ-N-1A	0.5025	0.50	0.505	0.810	0.035	0.038	-267	3	-250	5
+EJ-N-1A	0.5525	0.55	0.555	0.899	0.038	0.046	-255	1		
+EJ-N-1A	0.6025	0.60	0.605	0.983	0.040	0.045	-250	2	-219	8
+EJ-N-1A	0.6525	0.65	0.655	1.024	0.031	0.035	-256	3	-233	4
+EJ-N-1A	0.7025	0.70	0.705	1.065	0.021	0.023	-257	4	-222	3
+EJ-N-1A	0.7525	0.75	0.755	1.106	0.014	0.014	-245	4		
+EJ-N-1A	0.8025	0.80	0.805	1.148	0.010	0.010	-231	8	-239	3
+EJ-N-1A	0.8525	0.85	0.855	1.198	0.011	0.010	-214	6	-232	2
+EJ-N-1A	0.9025	0.90	0.905	1.247	0.011	0.013			-251	3
+EJ-N-1A	0.9525	0.95	0.955	1.296	0.012	0.018	-263	4	-252	7
+EJ-N-1A	0.9925	0.99	0.995	1.352	0.013	0.024			-250	3
+EJ-N-1B	0.0050	0.00	0.010	1.363	0.015	0.024			-252	2
+EJ-N-1B	0.0550	0.05	0.060	1.468	0.022	0.026			-242	3
+EJ-N-1B	0.1050	0.10	0.110	1.573	0.035	0.036	-245	2	-221	11
+EJ-N-1B	0.1550	0.15	0.160	1.678	0.046	0.048	-240	3	-252	5
+EJ-N-1B	0.2050	0.20	0.210	1.783	0.051	0.053	-243	2		
+EJ-N-1B	0.2550	0.25	0.260	1.898	0.050	0.049	-255	2		
+EJ-N-1B	0.3050	0.30	0.310	2.013	0.047	0.048	-254	1		
+EJ-N-1B	0.3550	0.35	0.360	2.129	0.052	0.066	-250	2		
+EJ-N-1B	0.4050	0.40	0.410	2.244	0.060	0.075	-247	1	-247	7
+EJ-N-1B	0.4550	0.45	0.460	2.365	0.053	0.061	-247	5	-254	5
+EJ-N-1B	0.5050	0.50	0.510	2.487	0.040	0.040	-250	4		
+EJ-N-1B	0.5550	0.55	0.560	2.608	0.028	0.049	-248	1		
+EJ-N-1B	0.6050	0.60	0.610	2.729	0.025	0.048	-248	3	-241	4
