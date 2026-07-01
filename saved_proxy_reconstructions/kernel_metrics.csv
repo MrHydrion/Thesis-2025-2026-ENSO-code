@@ -1,0 +1,16 @@
+composite_method,setup,n_proxies,removed_proxy,pearson,spearman,rmse,mean_uncertainty
+mean,all_proxies,4,,0.692,0.593,0.844,0.339
+mean,without_PC1_Pallcacocha,3,PC1_Pallcacocha,0.691,0.593,0.652,0.297
+mean,without_SST_Nino,3,SST_Nino,0.412,0.418,0.955,0.398
+mean,without_Tree rings,3,Tree rings,-0.668,-0.61,0.947,0.34
+mean,without_galapogos_biomarkers,3,galapogos_biomarkers,0.718,0.588,0.899,0.354
+median,all_proxies,4,,0.565,0.544,0.841,0.359
+median,without_PC1_Pallcacocha,3,PC1_Pallcacocha,0.603,0.544,0.682,0.313
+median,without_SST_Nino,3,SST_Nino,-0.605,-0.341,0.985,0.45
+median,without_Tree rings,3,Tree rings,-0.454,-0.264,0.895,0.359
+median,without_galapogos_biomarkers,3,galapogos_biomarkers,0.688,0.577,0.906,0.366
+weighted,all_proxies,4,,0.666,0.555,0.866,0.338
+weighted,without_PC1_Pallcacocha,3,PC1_Pallcacocha,0.687,0.582,0.666,0.295
+weighted,without_SST_Nino,3,SST_Nino,0.261,0.22,0.959,0.396
+weighted,without_Tree rings,3,Tree rings,-0.705,-0.698,0.971,0.337
+weighted,without_galapogos_biomarkers,3,galapogos_biomarkers,0.704,0.555,0.936,0.352
