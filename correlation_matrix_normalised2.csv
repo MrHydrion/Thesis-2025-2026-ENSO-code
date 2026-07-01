@@ -1,0 +1,5 @@
+,PC1_Pallcacocha,SST_Nino,Tree rings,galapogos_biomarkers
+PC1_Pallcacocha,1.0,-0.44,0.05,0.18
+SST_Nino,-0.44,1.0,-0.02,0.47
+Tree rings,0.05,-0.02,1.0,-0.55
+galapogos_biomarkers,0.18,0.47,-0.55,1.0
